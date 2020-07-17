@@ -9,6 +9,13 @@ img {
   background-color: red;
 }
 */
+
+/*============================element.class Selectors=========================*/
+/*
+img.bacon {background-color:green;}
+img.broccoli{backgroundcolor:red;}
+*/
+
 /*==========================Class Selectors===================================*/
 .bacon {
   background-color: green;
