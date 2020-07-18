@@ -4,19 +4,21 @@ h1 {
   font-size: 40px;
 }
 
+img:hover{
+  background-color: gold;
+}
+
+/* ===============================element.class Selectors ====================*/
 /*
-img {
-  background-color: red;
+img.bacon {
+  background-color: green;
+}
+img.broccoli {
+  background-color:red;
 }
 */
-
-/*============================element.class Selectors=========================*/
-/*
-img.bacon {background-color:green;}
-img.broccoli{backgroundcolor:red;}
-*/
-
 /*==========================Class Selectors===================================*/
+
 .bacon {
   background-color: green;
 }
@@ -24,6 +26,10 @@ img.broccoli{backgroundcolor:red;}
 .broccoli {
   background-color: red;
 }
+.circular {
+  border-radius: 100%;
+}
+
 
 /*=============================Id Selectors===================================*/
 #heading {
