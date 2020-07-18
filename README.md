@@ -13,3 +13,5 @@ https://www.w3schools.com/css/css_comments.asp
 # CSS Selector Reference
 - https://www.w3schools.com/cssref/css_selectors.asp
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
+# border-radius CSS property
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
